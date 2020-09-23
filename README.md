@@ -20,3 +20,6 @@ To launch the MS Skill
 ```
 make launch_skill
 ```
+### credentials
+User: johndoe
+Password: secret
