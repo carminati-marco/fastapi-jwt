@@ -7,7 +7,7 @@ httptools==0.1.1
 passlib==1.7.2
 pycparser==2.20
 pydantic==1.4
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-multipart==0.0.5
 six==1.14.0
 starlette==0.13.2
